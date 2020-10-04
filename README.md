@@ -7,9 +7,6 @@
 
 ### Status
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zpeters)]
+![trophy](https://github-profile-trophy.vercel.app/?username=zpeters)
 
 [![Zpeters's github stats](https://github-readme-stats.vercel.app/api?username=zpeters)](https://github.com/zpeters/github-readme-stats&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zpeters)](https://github.com/zpeters/github-readme-stats)
