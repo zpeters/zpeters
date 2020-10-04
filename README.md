@@ -5,7 +5,12 @@
 - 📫 How to reach me: zpeters@gmail.com, @zpeters on twitter
 - 👋 See some of my other projects at at [The Helpful Hacker](https://thehelpfulhacker.net)
 
-### Status
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### :bar_chart: Status
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=zpeters)
 
