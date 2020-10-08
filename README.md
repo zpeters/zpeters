@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/zpeters/now-playing/pull/3) in [zpeters/now-playing](https://github.com/zpeters/now-playing)
-2. 🎉 Merged PR [#2](https://github.com/zpeters/now-playing/pull/2) in [zpeters/now-playing](https://github.com/zpeters/now-playing)
-3. 🎉 Merged PR [#2](https://github.com/zpeters/mpd/pull/2) in [zpeters/mpd](https://github.com/zpeters/mpd)
-4. 🎉 Merged PR [#1](https://github.com/zpeters/mpd/pull/1) in [zpeters/mpd](https://github.com/zpeters/mpd)
-5. ❌ Closed PR [#2](https://github.com/zpeters/docker-react/pull/2) in [zpeters/docker-react](https://github.com/zpeters/docker-react)
+1. 🎉 Merged PR [#47](https://github.com/zpeters/stashbox/pull/47) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+2. 🎉 Merged PR [#3](https://github.com/zpeters/now-playing/pull/3) in [zpeters/now-playing](https://github.com/zpeters/now-playing)
+3. 🎉 Merged PR [#2](https://github.com/zpeters/now-playing/pull/2) in [zpeters/now-playing](https://github.com/zpeters/now-playing)
+4. 🎉 Merged PR [#2](https://github.com/zpeters/mpd/pull/2) in [zpeters/mpd](https://github.com/zpeters/mpd)
+5. 🎉 Merged PR [#1](https://github.com/zpeters/mpd/pull/1) in [zpeters/mpd](https://github.com/zpeters/mpd)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
