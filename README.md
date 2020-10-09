@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/zpeters/stashbox/pull/47) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
-2. 🎉 Merged PR [#3](https://github.com/zpeters/now-playing/pull/3) in [zpeters/now-playing](https://github.com/zpeters/now-playing)
-3. 🎉 Merged PR [#2](https://github.com/zpeters/now-playing/pull/2) in [zpeters/now-playing](https://github.com/zpeters/now-playing)
-4. 🎉 Merged PR [#2](https://github.com/zpeters/mpd/pull/2) in [zpeters/mpd](https://github.com/zpeters/mpd)
-5. 🎉 Merged PR [#1](https://github.com/zpeters/mpd/pull/1) in [zpeters/mpd](https://github.com/zpeters/mpd)
+1. 🗣 Commented on [#48](https://github.com/zpeters/stashbox/issues/48) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+2. ❌ Closed PR [#61](https://github.com/rrrene/inch_ex/pull/61) in [rrrene/inch_ex](https://github.com/rrrene/inch_ex)
+3. 🎉 Merged PR [#47](https://github.com/zpeters/stashbox/pull/47) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+4. 🎉 Merged PR [#3](https://github.com/zpeters/now-playing/pull/3) in [zpeters/now-playing](https://github.com/zpeters/now-playing)
+5. 🎉 Merged PR [#2](https://github.com/zpeters/now-playing/pull/2) in [zpeters/now-playing](https://github.com/zpeters/now-playing)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
