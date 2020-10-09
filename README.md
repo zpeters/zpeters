@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/zpeters/stashbox/issues/48) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
-2. ❌ Closed PR [#61](https://github.com/rrrene/inch_ex/pull/61) in [rrrene/inch_ex](https://github.com/rrrene/inch_ex)
-3. 🎉 Merged PR [#47](https://github.com/zpeters/stashbox/pull/47) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
-4. 🎉 Merged PR [#3](https://github.com/zpeters/now-playing/pull/3) in [zpeters/now-playing](https://github.com/zpeters/now-playing)
-5. 🎉 Merged PR [#2](https://github.com/zpeters/now-playing/pull/2) in [zpeters/now-playing](https://github.com/zpeters/now-playing)
+1. ❗️ Closed issue [#3](https://github.com/zpeters/connectwise-go/issues/3) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
+2. ❗️ Opened issue [#6](https://github.com/zpeters/connectwise-go/issues/6) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
+3. ❗️ Opened issue [#5](https://github.com/zpeters/connectwise-go/issues/5) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
+4. 🎉 Merged PR [#4](https://github.com/zpeters/connectwise-go/pull/4) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
+5. 💪 Opened PR [#4](https://github.com/zpeters/connectwise-go/pull/4) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
