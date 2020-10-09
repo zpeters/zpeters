@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/zpeters/connectwise-go/issues/1) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
-2. ❗️ Closed issue [#10](https://github.com/zpeters/connectwise-go/issues/10) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
-3. ❗️ Closed issue [#9](https://github.com/zpeters/connectwise-go/issues/9) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
-4. 🗣 Commented on [#9](https://github.com/zpeters/connectwise-go/issues/9) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
-5. ❗️ Closed issue [#2](https://github.com/zpeters/connectwise-go/issues/2) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
+1. 🎉 Merged PR [#13](https://github.com/zpeters/connectwise-go/pull/13) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
+2. 🎉 Merged PR [#13](https://github.com/zpeters/connectwise-go/pull/13) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
+3. ❗️ Closed issue [#1](https://github.com/zpeters/connectwise-go/issues/1) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
+4. ❗️ Closed issue [#10](https://github.com/zpeters/connectwise-go/issues/10) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
+5. ❗️ Closed issue [#9](https://github.com/zpeters/connectwise-go/issues/9) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
