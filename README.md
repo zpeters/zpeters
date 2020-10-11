@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#49](https://github.com/zpeters/stashbox/issues/49) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
-2. 🎉 Merged PR [#16](https://github.com/zpeters/awesome-mississippi/pull/16) in [zpeters/awesome-mississippi](https://github.com/zpeters/awesome-mississippi)
-3. 🎉 Merged PR [#48](https://github.com/zpeters/stashbox/pull/48) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
-4. 🗣 Commented on [#48](https://github.com/zpeters/stashbox/issues/48) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
-5. 🎉 Merged PR [#13](https://github.com/zpeters/connectwise-go/pull/13) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
+1. 🗣 Commented on [#46](https://github.com/zpeters/stashbox/issues/46) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+2. 🗣 Commented on [#51](https://github.com/zpeters/stashbox/issues/51) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+3. 🎉 Merged PR [#52](https://github.com/zpeters/stashbox/pull/52) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+4. 🎉 Merged PR [#50](https://github.com/zpeters/stashbox/pull/50) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+5. ❗️ Closed issue [#49](https://github.com/zpeters/stashbox/issues/49) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
