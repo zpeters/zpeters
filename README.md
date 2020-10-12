@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#53](https://github.com/zpeters/stashbox/issues/53) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
-2. 🗣 Commented on [#53](https://github.com/zpeters/stashbox/issues/53) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
-3. 🎉 Merged PR [#57](https://github.com/zpeters/ex_webexteams/pull/57) in [zpeters/ex_webexteams](https://github.com/zpeters/ex_webexteams)
-4. 🎉 Merged PR [#56](https://github.com/zpeters/ex_webexteams/pull/56) in [zpeters/ex_webexteams](https://github.com/zpeters/ex_webexteams)
-5. 🎉 Merged PR [#60](https://github.com/zpeters/stashbox/pull/60) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+1. 🎉 Merged PR [#107](https://github.com/zpeters/ex_cwmanage/pull/107) in [zpeters/ex_cwmanage](https://github.com/zpeters/ex_cwmanage)
+2. 🎉 Merged PR [#108](https://github.com/zpeters/ex_cwmanage/pull/108) in [zpeters/ex_cwmanage](https://github.com/zpeters/ex_cwmanage)
+3. ❗️ Closed issue [#53](https://github.com/zpeters/stashbox/issues/53) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+4. 🗣 Commented on [#53](https://github.com/zpeters/stashbox/issues/53) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+5. 🎉 Merged PR [#57](https://github.com/zpeters/ex_webexteams/pull/57) in [zpeters/ex_webexteams](https://github.com/zpeters/ex_webexteams)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
