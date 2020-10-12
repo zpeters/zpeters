@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#39](https://github.com/zpeters/stashbox/pull/39) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
-2. 🎉 Merged PR [#59](https://github.com/zpeters/stashbox/pull/59) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
-3. ❗️ Opened issue [#58](https://github.com/zpeters/stashbox/issues/58) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
-4. ❗️ Opened issue [#57](https://github.com/zpeters/stashbox/issues/57) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
-5. ❗️ Opened issue [#56](https://github.com/zpeters/stashbox/issues/56) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+1. 🎉 Merged PR [#60](https://github.com/zpeters/stashbox/pull/60) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+2. ❗️ Closed issue [#51](https://github.com/zpeters/stashbox/issues/51) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+3. 💪 Opened PR [#60](https://github.com/zpeters/stashbox/pull/60) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+4. ❗️ Closed issue [#56](https://github.com/zpeters/stashbox/issues/56) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+5. 🗣 Commented on [#56](https://github.com/zpeters/stashbox/issues/56) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
