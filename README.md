@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/zpeters/github-slideshow/pull/4) in [zpeters/github-slideshow](https://github.com/zpeters/github-slideshow)
-2. ❗️ Closed issue [#1](https://github.com/zpeters/github-slideshow/issues/1) in [zpeters/github-slideshow](https://github.com/zpeters/github-slideshow)
-3. ❗️ Closed issue [#16](https://github.com/zpeters/connectwise-go/issues/16) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
-4. 🎉 Merged PR [#3](https://github.com/zpeters/mpd/pull/3) in [zpeters/mpd](https://github.com/zpeters/mpd)
-5. 🎉 Merged PR [#5](https://github.com/zpeters/now-playing/pull/5) in [zpeters/now-playing](https://github.com/zpeters/now-playing)
+1. 🎉 Merged PR [#4](https://github.com/zpeters/github-pages-with-jekyll/pull/4) in [zpeters/github-pages-with-jekyll](https://github.com/zpeters/github-pages-with-jekyll)
+2. 💪 Opened PR [#4](https://github.com/zpeters/github-pages-with-jekyll/pull/4) in [zpeters/github-pages-with-jekyll](https://github.com/zpeters/github-pages-with-jekyll)
+3. 🎉 Merged PR [#2](https://github.com/zpeters/github-pages-with-jekyll/pull/2) in [zpeters/github-pages-with-jekyll](https://github.com/zpeters/github-pages-with-jekyll)
+4. 💪 Opened PR [#2](https://github.com/zpeters/github-pages-with-jekyll/pull/2) in [zpeters/github-pages-with-jekyll](https://github.com/zpeters/github-pages-with-jekyll)
+5. 🎉 Merged PR [#5](https://github.com/zpeters/reviewing-a-pull-request/pull/5) in [zpeters/reviewing-a-pull-request](https://github.com/zpeters/reviewing-a-pull-request)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
