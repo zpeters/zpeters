@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#16](https://github.com/zpeters/connectwise-go/issues/16) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
-2. 🎉 Merged PR [#3](https://github.com/zpeters/mpd/pull/3) in [zpeters/mpd](https://github.com/zpeters/mpd)
-3. 🎉 Merged PR [#5](https://github.com/zpeters/now-playing/pull/5) in [zpeters/now-playing](https://github.com/zpeters/now-playing)
-4. 🎉 Merged PR [#98](https://github.com/zpeters/speedtestr/pull/98) in [zpeters/speedtestr](https://github.com/zpeters/speedtestr)
-5. ❗️ Opened issue [#17](https://github.com/zpeters/connectwise-go/issues/17) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
+1. 💪 Opened PR [#4](https://github.com/zpeters/github-slideshow/pull/4) in [zpeters/github-slideshow](https://github.com/zpeters/github-slideshow)
+2. ❗️ Closed issue [#1](https://github.com/zpeters/github-slideshow/issues/1) in [zpeters/github-slideshow](https://github.com/zpeters/github-slideshow)
+3. ❗️ Closed issue [#16](https://github.com/zpeters/connectwise-go/issues/16) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
+4. 🎉 Merged PR [#3](https://github.com/zpeters/mpd/pull/3) in [zpeters/mpd](https://github.com/zpeters/mpd)
+5. 🎉 Merged PR [#5](https://github.com/zpeters/now-playing/pull/5) in [zpeters/now-playing](https://github.com/zpeters/now-playing)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
