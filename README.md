@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#72](https://github.com/zpeters/stashbox/pull/72) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
-2. 🎉 Merged PR [#4](https://github.com/zpeters/github-pages-with-jekyll/pull/4) in [zpeters/github-pages-with-jekyll](https://github.com/zpeters/github-pages-with-jekyll)
-3. 💪 Opened PR [#4](https://github.com/zpeters/github-pages-with-jekyll/pull/4) in [zpeters/github-pages-with-jekyll](https://github.com/zpeters/github-pages-with-jekyll)
-4. 🎉 Merged PR [#2](https://github.com/zpeters/github-pages-with-jekyll/pull/2) in [zpeters/github-pages-with-jekyll](https://github.com/zpeters/github-pages-with-jekyll)
-5. 💪 Opened PR [#2](https://github.com/zpeters/github-pages-with-jekyll/pull/2) in [zpeters/github-pages-with-jekyll](https://github.com/zpeters/github-pages-with-jekyll)
+1. 🎉 Merged PR [#1](https://github.com/zpeters/dice/pull/1) in [zpeters/dice](https://github.com/zpeters/dice)
+2. 🎉 Merged PR [#72](https://github.com/zpeters/stashbox/pull/72) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+3. 🎉 Merged PR [#4](https://github.com/zpeters/github-pages-with-jekyll/pull/4) in [zpeters/github-pages-with-jekyll](https://github.com/zpeters/github-pages-with-jekyll)
+4. 💪 Opened PR [#4](https://github.com/zpeters/github-pages-with-jekyll/pull/4) in [zpeters/github-pages-with-jekyll](https://github.com/zpeters/github-pages-with-jekyll)
+5. 🎉 Merged PR [#2](https://github.com/zpeters/github-pages-with-jekyll/pull/2) in [zpeters/github-pages-with-jekyll](https://github.com/zpeters/github-pages-with-jekyll)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
