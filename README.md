@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/zpeters/dice/pull/3) in [zpeters/dice](https://github.com/zpeters/dice)
-2. 🎉 Merged PR [#18](https://github.com/zpeters/connectwise-go/pull/18) in [zpeters/connectwise-go](https://github.com/zpeters/connectwise-go)
-3. 🎉 Merged PR [#2](https://github.com/zpeters/dice/pull/2) in [zpeters/dice](https://github.com/zpeters/dice)
-4. 🎉 Merged PR [#1](https://github.com/zpeters/dice/pull/1) in [zpeters/dice](https://github.com/zpeters/dice)
-5. 🎉 Merged PR [#72](https://github.com/zpeters/stashbox/pull/72) in [zpeters/stashbox](https://github.com/zpeters/stashbox)
+1. 🎉 Merged PR [#7](https://github.com/zpeters/dice/pull/7) in [zpeters/dice](https://github.com/zpeters/dice)
+2. 💪 Opened PR [#7](https://github.com/zpeters/dice/pull/7) in [zpeters/dice](https://github.com/zpeters/dice)
+3. ❗️ Opened issue [#6](https://github.com/zpeters/dice/issues/6) in [zpeters/dice](https://github.com/zpeters/dice)
+4. ❗️ Opened issue [#5](https://github.com/zpeters/dice/issues/5) in [zpeters/dice](https://github.com/zpeters/dice)
+5. ❗️ Opened issue [#4](https://github.com/zpeters/dice/issues/4) in [zpeters/dice](https://github.com/zpeters/dice)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
