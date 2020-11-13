@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/zpeters/connectwise-clojure/issues/3) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
-2. ❗️ Opened issue [#2](https://github.com/zpeters/connectwise-clojure/issues/2) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
-3. ❗️ Opened issue [#1](https://github.com/zpeters/connectwise-clojure/issues/1) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
-4. ❗️ Opened issue [#117](https://github.com/immutant/lein-immutant/issues/117) in [immutant/lein-immutant](https://github.com/immutant/lein-immutant)
-5. 🗣 Commented on [#651](https://github.com/chrislgarry/Apollo-11/issues/651) in [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)
+1. 🗣 Commented on [#3](https://github.com/zpeters/connectwise-clojure/issues/3) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
+2. ❗️ Opened issue [#3](https://github.com/zpeters/connectwise-clojure/issues/3) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
+3. ❗️ Opened issue [#2](https://github.com/zpeters/connectwise-clojure/issues/2) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
+4. ❗️ Opened issue [#1](https://github.com/zpeters/connectwise-clojure/issues/1) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
+5. ❗️ Opened issue [#117](https://github.com/immutant/lein-immutant/issues/117) in [immutant/lein-immutant](https://github.com/immutant/lein-immutant)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
