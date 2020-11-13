@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a few projects.  Most recently :inbox_tray: [stashbox](https://github.com/zpeters/stashbox) which aims to be a personal "Internet Archive" and [connectwise-go](https://github.com/zpeters/connectwise-go) which is a simple API module for Connectwise Manage
+- 🔭 I’m currently working on a few projects.  Most recently :inbox_tray: [stashbox](https://github.com/zpeters/stashbox) which aims to be a personal "Internet Archive" and [connectwise-colure](https://github.com/zpeters/connectwise-clojure) which is a simple API module for Connectwise Manage for Clojure
 - 📫 How to reach me: zpeters@gmail.com, @zpeters on twitter
 - 👋 See some of my other projects at at [The Helpful Hacker](https://thehelpfulhacker.net)
 
