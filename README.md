@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/zpeters/connectwise-clojure/issues/5) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
-2. ❗️ Opened issue [#5](https://github.com/zpeters/connectwise-clojure/issues/5) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
-3. 🗣 Commented on [#2](https://github.com/zpeters/connectwise-clojure/issues/2) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
-4. ❗️ Closed issue [#4](https://github.com/zpeters/connectwise-clojure/issues/4) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
-5. 🗣 Commented on [#1](https://github.com/zpeters/connectwise-clojure/issues/1) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
+1. ❗️ Closed issue [#5](https://github.com/zpeters/connectwise-clojure/issues/5) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
+2. ❗️ Closed issue [#2](https://github.com/zpeters/connectwise-clojure/issues/2) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
+3. ❗️ Closed issue [#1](https://github.com/zpeters/connectwise-clojure/issues/1) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
+4. ❗️ Opened issue [#6](https://github.com/zpeters/connectwise-clojure/issues/6) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
+5. 🗣 Commented on [#5](https://github.com/zpeters/connectwise-clojure/issues/5) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
