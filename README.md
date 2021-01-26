@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/zpeters/connectwise-clojure/pull/12) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
-2. 🎉 Merged PR [#16](https://github.com/zpeters/dice/pull/16) in [zpeters/dice](https://github.com/zpeters/dice)
-3. 🎉 Merged PR [#15](https://github.com/zpeters/dice/pull/15) in [zpeters/dice](https://github.com/zpeters/dice)
-4. 🎉 Merged PR [#14](https://github.com/zpeters/dice/pull/14) in [zpeters/dice](https://github.com/zpeters/dice)
-5. 🎉 Merged PR [#13](https://github.com/zpeters/dice/pull/13) in [zpeters/dice](https://github.com/zpeters/dice)
+1. 🎉 Merged PR [#15](https://github.com/zpeters/connectwise-clojure/pull/15) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
+2. 🎉 Merged PR [#13](https://github.com/zpeters/connectwise-clojure/pull/13) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
+3. 🎉 Merged PR [#12](https://github.com/zpeters/connectwise-clojure/pull/12) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
+4. 🎉 Merged PR [#16](https://github.com/zpeters/dice/pull/16) in [zpeters/dice](https://github.com/zpeters/dice)
+5. 🎉 Merged PR [#15](https://github.com/zpeters/dice/pull/15) in [zpeters/dice](https://github.com/zpeters/dice)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
