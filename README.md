@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/zpeters/connectwise-clojure/pull/15) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
-2. 🎉 Merged PR [#13](https://github.com/zpeters/connectwise-clojure/pull/13) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
-3. 🎉 Merged PR [#12](https://github.com/zpeters/connectwise-clojure/pull/12) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
-4. 🎉 Merged PR [#16](https://github.com/zpeters/dice/pull/16) in [zpeters/dice](https://github.com/zpeters/dice)
-5. 🎉 Merged PR [#15](https://github.com/zpeters/dice/pull/15) in [zpeters/dice](https://github.com/zpeters/dice)
+1. ❌ Closed PR [#132](https://github.com/zpeters/speedtestr/pull/132) in [zpeters/speedtestr](https://github.com/zpeters/speedtestr)
+2. ❌ Closed PR [#131](https://github.com/zpeters/speedtestr/pull/131) in [zpeters/speedtestr](https://github.com/zpeters/speedtestr)
+3. ❌ Closed PR [#125](https://github.com/zpeters/speedtestr/pull/125) in [zpeters/speedtestr](https://github.com/zpeters/speedtestr)
+4. ❌ Closed PR [#119](https://github.com/zpeters/speedtestr/pull/119) in [zpeters/speedtestr](https://github.com/zpeters/speedtestr)
+5. ❌ Closed PR [#118](https://github.com/zpeters/speedtestr/pull/118) in [zpeters/speedtestr](https://github.com/zpeters/speedtestr)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
