@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/zpeters/cwmanage/pull/2) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-2. 💪 Opened PR [#2](https://github.com/zpeters/cwmanage/pull/2) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-3. ❌ Closed PR [#1](https://github.com/zpeters/cwmanage/pull/1) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-4. 💪 Opened PR [#1](https://github.com/zpeters/cwmanage/pull/1) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-5. 🗣 Commented on [#13](https://github.com/zpeters/speedtestr/issues/13) in [zpeters/speedtestr](https://github.com/zpeters/speedtestr)
+1. ❗️ Opened issue [#3](https://github.com/zpeters/cwmanage/issues/3) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+2. 🎉 Merged PR [#2](https://github.com/zpeters/cwmanage/pull/2) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+3. 💪 Opened PR [#2](https://github.com/zpeters/cwmanage/pull/2) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+4. ❌ Closed PR [#1](https://github.com/zpeters/cwmanage/pull/1) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+5. 💪 Opened PR [#1](https://github.com/zpeters/cwmanage/pull/1) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
