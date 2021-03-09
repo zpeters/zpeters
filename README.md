@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/zpeters/cwmanage/issues/5) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-2. ❗️ Opened issue [#4](https://github.com/zpeters/cwmanage/issues/4) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-3. ❗️ Opened issue [#3](https://github.com/zpeters/cwmanage/issues/3) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-4. 🎉 Merged PR [#2](https://github.com/zpeters/cwmanage/pull/2) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-5. 💪 Opened PR [#2](https://github.com/zpeters/cwmanage/pull/2) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+1. ❗️ Closed issue [#4](https://github.com/zpeters/cwmanage/issues/4) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+2. ❗️ Closed issue [#3](https://github.com/zpeters/cwmanage/issues/3) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+3. ❗️ Closed issue [#5](https://github.com/zpeters/cwmanage/issues/5) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+4. ❗️ Opened issue [#5](https://github.com/zpeters/cwmanage/issues/5) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+5. ❗️ Opened issue [#4](https://github.com/zpeters/cwmanage/issues/4) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
