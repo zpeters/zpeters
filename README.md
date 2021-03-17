@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/zpeters/cwmanage/issues/4) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-2. ❗️ Closed issue [#3](https://github.com/zpeters/cwmanage/issues/3) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-3. ❗️ Closed issue [#5](https://github.com/zpeters/cwmanage/issues/5) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-4. ❗️ Opened issue [#5](https://github.com/zpeters/cwmanage/issues/5) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-5. ❗️ Opened issue [#4](https://github.com/zpeters/cwmanage/issues/4) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+1. ❗️ Opened issue [#18](https://github.com/zpeters/connectwise-clojure/issues/18) in [zpeters/connectwise-clojure](https://github.com/zpeters/connectwise-clojure)
+2. ❗️ Closed issue [#4](https://github.com/zpeters/cwmanage/issues/4) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+3. ❗️ Closed issue [#3](https://github.com/zpeters/cwmanage/issues/3) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+4. ❗️ Closed issue [#5](https://github.com/zpeters/cwmanage/issues/5) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+5. ❗️ Opened issue [#5](https://github.com/zpeters/cwmanage/issues/5) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
