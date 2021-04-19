@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#142](https://github.com/zpeters/speedtestr/pull/142) in [zpeters/speedtestr](https://github.com/zpeters/speedtestr)
-2. ❌ Closed PR [#35](https://github.com/zpeters/dice/pull/35) in [zpeters/dice](https://github.com/zpeters/dice)
-3. 🎉 Merged PR [#34](https://github.com/zpeters/dice/pull/34) in [zpeters/dice](https://github.com/zpeters/dice)
-4. 🎉 Merged PR [#141](https://github.com/zpeters/speedtestr/pull/141) in [zpeters/speedtestr](https://github.com/zpeters/speedtestr)
-5. 🎉 Merged PR [#33](https://github.com/zpeters/dice/pull/33) in [zpeters/dice](https://github.com/zpeters/dice)
+1. ❗️ Opened issue [#6](https://github.com/zpeters/cwmanage/issues/6) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+2. 🎉 Merged PR [#142](https://github.com/zpeters/speedtestr/pull/142) in [zpeters/speedtestr](https://github.com/zpeters/speedtestr)
+3. ❌ Closed PR [#35](https://github.com/zpeters/dice/pull/35) in [zpeters/dice](https://github.com/zpeters/dice)
+4. 🎉 Merged PR [#34](https://github.com/zpeters/dice/pull/34) in [zpeters/dice](https://github.com/zpeters/dice)
+5. 🎉 Merged PR [#141](https://github.com/zpeters/speedtestr/pull/141) in [zpeters/speedtestr](https://github.com/zpeters/speedtestr)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
