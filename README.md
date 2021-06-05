@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/zpeters/cwmanage/issues/7) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-2. 🗣 Commented on [#7](https://github.com/zpeters/cwmanage/issues/7) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-3. ❗️ Opened issue [#7](https://github.com/zpeters/cwmanage/issues/7) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-4. ❗️ Closed issue [#6](https://github.com/zpeters/cwmanage/issues/6) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-5. ❗️ Opened issue [#6](https://github.com/zpeters/cwmanage/issues/6) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+1. 🎉 Merged PR [#79](https://github.com/zpeters/ex_webexteams/pull/79) in [zpeters/ex_webexteams](https://github.com/zpeters/ex_webexteams)
+2. 🎉 Merged PR [#78](https://github.com/zpeters/ex_webexteams/pull/78) in [zpeters/ex_webexteams](https://github.com/zpeters/ex_webexteams)
+3. 🎉 Merged PR [#148](https://github.com/zpeters/speedtestr/pull/148) in [zpeters/speedtestr](https://github.com/zpeters/speedtestr)
+4. 🎉 Merged PR [#77](https://github.com/zpeters/ex_webexteams/pull/77) in [zpeters/ex_webexteams](https://github.com/zpeters/ex_webexteams)
+5. 🎉 Merged PR [#146](https://github.com/zpeters/speedtestr/pull/146) in [zpeters/speedtestr](https://github.com/zpeters/speedtestr)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
