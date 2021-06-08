@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/zpeters/dice/pull/42) in [zpeters/dice](https://github.com/zpeters/dice)
-2. 🎉 Merged PR [#41](https://github.com/zpeters/dice/pull/41) in [zpeters/dice](https://github.com/zpeters/dice)
-3. 🎉 Merged PR [#40](https://github.com/zpeters/dice/pull/40) in [zpeters/dice](https://github.com/zpeters/dice)
-4. 🎉 Merged PR [#79](https://github.com/zpeters/ex_webexteams/pull/79) in [zpeters/ex_webexteams](https://github.com/zpeters/ex_webexteams)
-5. 🎉 Merged PR [#78](https://github.com/zpeters/ex_webexteams/pull/78) in [zpeters/ex_webexteams](https://github.com/zpeters/ex_webexteams)
+1. 🎉 Merged PR [#9](https://github.com/zpeters/cwmanage/pull/9) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+2. 🎉 Merged PR [#10](https://github.com/zpeters/cwmanage/pull/10) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+3. 🎉 Merged PR [#8](https://github.com/zpeters/cwmanage/pull/8) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+4. 🎉 Merged PR [#42](https://github.com/zpeters/dice/pull/42) in [zpeters/dice](https://github.com/zpeters/dice)
+5. 🎉 Merged PR [#41](https://github.com/zpeters/dice/pull/41) in [zpeters/dice](https://github.com/zpeters/dice)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
