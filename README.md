@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/zpeters/cwmanage/pull/9) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-2. 🎉 Merged PR [#10](https://github.com/zpeters/cwmanage/pull/10) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-3. 🎉 Merged PR [#8](https://github.com/zpeters/cwmanage/pull/8) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
-4. 🎉 Merged PR [#42](https://github.com/zpeters/dice/pull/42) in [zpeters/dice](https://github.com/zpeters/dice)
-5. 🎉 Merged PR [#41](https://github.com/zpeters/dice/pull/41) in [zpeters/dice](https://github.com/zpeters/dice)
+1. 🎉 Merged PR [#13](https://github.com/zpeters/cwmanage/pull/13) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+2. 🎉 Merged PR [#3](https://github.com/zpeters/mobugsnag/pull/3) in [zpeters/mobugsnag](https://github.com/zpeters/mobugsnag)
+3. 🎉 Merged PR [#12](https://github.com/zpeters/cwmanage/pull/12) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
+4. 🎉 Merged PR [#2](https://github.com/zpeters/mobugsnag/pull/2) in [zpeters/mobugsnag](https://github.com/zpeters/mobugsnag)
+5. 🎉 Merged PR [#11](https://github.com/zpeters/cwmanage/pull/11) in [zpeters/cwmanage](https://github.com/zpeters/cwmanage)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
