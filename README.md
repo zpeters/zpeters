@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/zpeters/stocks-live-project/pull/4) in [zpeters/stocks-live-project](https://github.com/zpeters/stocks-live-project)
-2. 🎉 Merged PR [#129](https://github.com/zpeters/ex_cwmanage/pull/129) in [zpeters/ex_cwmanage](https://github.com/zpeters/ex_cwmanage)
-3. 🎉 Merged PR [#127](https://github.com/zpeters/ex_cwmanage/pull/127) in [zpeters/ex_cwmanage](https://github.com/zpeters/ex_cwmanage)
-4. 🎉 Merged PR [#126](https://github.com/zpeters/ex_cwmanage/pull/126) in [zpeters/ex_cwmanage](https://github.com/zpeters/ex_cwmanage)
-5. 🎉 Merged PR [#125](https://github.com/zpeters/ex_cwmanage/pull/125) in [zpeters/ex_cwmanage](https://github.com/zpeters/ex_cwmanage)
+1. 🎉 Merged PR [#3](https://github.com/zpeters/MonkeyRadioReborn/pull/3) in [zpeters/MonkeyRadioReborn](https://github.com/zpeters/MonkeyRadioReborn)
+2. 🎉 Merged PR [#2](https://github.com/zpeters/MonkeyRadioReborn/pull/2) in [zpeters/MonkeyRadioReborn](https://github.com/zpeters/MonkeyRadioReborn)
+3. 🎉 Merged PR [#50](https://github.com/zpeters/dice/pull/50) in [zpeters/dice](https://github.com/zpeters/dice)
+4. 🎉 Merged PR [#49](https://github.com/zpeters/dice/pull/49) in [zpeters/dice](https://github.com/zpeters/dice)
+5. 🎉 Merged PR [#48](https://github.com/zpeters/dice/pull/48) in [zpeters/dice](https://github.com/zpeters/dice)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Status
