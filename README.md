@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a few projects.  Most recently :inbox_tray: [stashbox](https://github.com/zpeters/stashbox) which aims to be a personal "Internet Archive" and [connectwise-colure](https://github.com/zpeters/connectwise-clojure) which is a simple API module for Connectwise Manage for Clojure.  For 2021 I am focusing on learning Rust
+- 🔭 It's 2022 and i'm finally learning javascript.  My current obsession is [Redwood JS](https://github.com/redwoodjs/redwood)
 - 📫 How to reach me: zpeters@gmail.com, @zpeters on twitter
-- 👋 See some of my other projects at at [The Helpful Hacker](https://thehelpfulhacker.net)
+- 👋 See some of my other projects at at [The Helpful Hacker](https://thehelpfulhacker.net/projects/)
+- Are you stuck creatively?  Try [Oblique Strategies](https://oblique.zachpeters.org/)
+- Just pondering life....[Deep Thoughts](https://deepthoughts.zachpeters.org/)
+- 🎶 Need some tunes while you code.   Check out [Monkey Radio (Reborn)](https://monkeyradioreborn.com/)
 
 ### :zap: Recent Activity
 
