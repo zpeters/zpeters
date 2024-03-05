@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-
-- 🔭 It's 2022 and i'm finally learning javascript.  My current obsession is [Redwood JS](https://github.com/redwoodjs/redwood)
-- 📫 How to reach me: zpeters@gmail.com, @zpeters on twitter
-- 👋 See some of my other projects at at [The Helpful Hacker](https://thehelpfulhacker.net/projects/)
-- Are you stuck creatively?  Try [Oblique Strategies](https://oblique.zachpeters.org/)
-- Just pondering life....[Deep Thoughts](https://deepthoughts.zachpeters.org/)
-- 🎶 Need some tunes while you code.   Check out [Monkey Radio (Reborn)](https://monkeyradioreborn.com/)
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
